@@ -1,11 +1,16 @@
 # research-and-study
-This repository exits for own learning as well as testing
+**This repository exits for own learning as well as testing**
 
-Preparing for postgraduate study.
-The following documents are for reference only.
-Noting, the update time is undetermined.
+---
 
-File classification description:
+1、__Preparing for postgraduate study.__<br>
+2、*The following documents are for reference only.*<br>
+3、_Noting, the update time is undetermined._<br>
+4、~~Just for fun.~~<br>
+
+---
+
+## File classification description:
 	- 1.data structure			数据结构
 		The files in this directory are used for data structure learning, there are some algorithm sample codes and explanatory texts.
 	- 2.operating system		操作系统

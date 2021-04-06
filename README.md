@@ -11,7 +11,7 @@
 ---
 
 ## File classification description:
-	- 1.data structure			数据结构
+	- 1.data structure		数据结构
 		The files in this directory are used for data structure learning, there are some algorithm sample codes and explanatory texts.
 	- 2.operating system		操作系统
 		The files in this directory are used for operating system learning, there are some algorithm simulation tests and knowledge supplementary instructions.

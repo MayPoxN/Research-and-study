@@ -11,11 +11,16 @@
 ---
 
 ## File classification description:
-	- 1.data structure		数据结构
-		The files in this directory are used for data structure learning, there are some algorithm sample codes and explanatory texts.
-	- 2.operating system		操作系统
-		The files in this directory are used for operating system learning, there are some algorithm simulation tests and knowledge supplementary instructions.
-	- 3.network principle		网络原理
-		The files in this directory are used for the study of network principles, and there are some knowledge records and calculation texts of related algorithms.
-	- 4.composition principle	组成原理
-		The files in this directory are used for the study of composition principles, and the content is not yet determined.
++ 1.data structure		数据结构
+>The files in this directory are used for data structure learning, there are some algorithm sample codes and explanatory texts.
+
++ 2.operating system		操作系统
+>The files in this directory are used for operating system learning, there are some algorithm simulation tests and knowledge supplementary instructions.
+
++ 3.network principle		网络原理
+>The files in this directory are used for the study of network principles, and there are some knowledge records and calculation texts of related algorithms.
+
++ 4.composition principle	组成原理
+>The files in this directory are used for the study of composition principles, and the content is not yet determined.
+
+---
